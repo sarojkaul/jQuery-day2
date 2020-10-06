@@ -1,0 +1,12 @@
+﻿body
+{
+}
+p {
+    display:none;
+}
+
+div {
+    width:700px;
+    display:flex;
+    flex-flow: row wrap;
+}
