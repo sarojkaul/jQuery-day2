@@ -1,0 +1,44 @@
+var images = `[
+    {
+        "name": "Fran",
+        "relation": "sister",
+        "image": "img/sister.jpg",
+        "hobby": "fishing"
+    },
+    {
+        "name": "Bill",
+        "relation": "father",
+        "image": "img/dad.jpg",
+        "hobby": "cars"
+    },
+    {
+        "name": "Nick",
+        "relation": "brother",
+        "image": "img/brother.jpg",
+        "hobby": "Gaming"
+    },
+    {
+        "name": "dog",
+        "relation": "dog",
+        "image": "img/dog.jpg",
+        "hobby": "chewing shoes"
+    },
+    {
+        "name": "sister2",
+        "relation": "sister",
+        "image": "img/sister2.jpg",
+        "hobby": "dancing"
+    },
+    {
+        "name": "nameofgrandpa",
+        "relation": "grandpa",
+        "image": "img/granpa.jpg",
+        "hobby": "sleeping"
+    },
+    {
+        "name": "Fritza",
+        "relation": "mom",
+        "image": "img/mom.jpg",
+        "hobby": "Design"
+    }
+]`;
